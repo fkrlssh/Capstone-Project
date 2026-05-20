@@ -2,7 +2,7 @@
   "SettingsVersion": 1.2,
   "SimMode": "Multirotor",
   "ViewMode": "Fpv",
-  "ClockSpeed": 1.5,
+  "ClockSpeed": 1.0,
   "Vehicles": {
     "Agent1": {
       "VehicleType": "SimpleFlight",
