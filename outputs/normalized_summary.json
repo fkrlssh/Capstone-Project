@@ -1,0 +1,13 @@
+{
+  "episodes": 28,
+  "window": 20,
+  "last_episode": 28,
+  "averages": {
+    "norm_training_score": 0.20074720249999994,
+    "norm_collision_free": 0.0,
+    "norm_success": 0.0,
+    "norm_global_visited": 0.0428816,
+    "norm_target_progress": 0.524972,
+    "norm_visited_delta": 0.28587733333333326
+  }
+}

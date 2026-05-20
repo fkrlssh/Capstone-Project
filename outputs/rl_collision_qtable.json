@@ -1,0 +1,146 @@
+{
+  "0|warn|left_clear|mid": {
+    "safe_side_soft": 1.5579944832601562,
+    "safe_side_hard": 1.892591107895447,
+    "force_left": 1.559223942993238,
+    "force_right": 1.5219438592924732,
+    "reverse": 1.5105277360188623,
+    "slow_hold": 1.1616492785554091
+  },
+  "1|warn|left_clear|mid": {
+    "safe_side_soft": 0.9134641412437099,
+    "safe_side_hard": 3.0595871333401417,
+    "force_left": 2.993721106282441,
+    "force_right": 2.1803153118195104,
+    "reverse": 2.9589122094643376,
+    "slow_hold": 3.0539538773300525
+  },
+  "0|clear|left_clear|mid": {
+    "safe_side_soft": 1.5686512525443261,
+    "safe_side_hard": 1.2951502393209184,
+    "force_left": 1.867164745895268,
+    "force_right": 0.8169214881425817,
+    "reverse": 1.5660392229695914,
+    "slow_hold": 1.732628546329424
+  },
+  "0|clear|right_clear|mid": {
+    "safe_side_soft": 1.4966720626247307,
+    "safe_side_hard": 1.6675967367298439,
+    "force_left": 1.4666078402734601,
+    "force_right": 1.4865133892113078,
+    "reverse": 1.938227207518829,
+    "slow_hold": 1.498429696922431
+  },
+  "1|danger|right_clear|mid": {
+    "safe_side_soft": 2.46529202053384,
+    "safe_side_hard": 2.4228165068586405,
+    "force_left": 2.5036451356644642,
+    "force_right": 2.80708675421137,
+    "reverse": -8.701697836500596,
+    "slow_hold": 2.3048731209622226
+  },
+  "1|warn|right_clear|mid": {
+    "safe_side_soft": 2.6560245076888287,
+    "safe_side_hard": 2.3575196283126014,
+    "force_left": 1.071500061537371,
+    "force_right": 2.4924512920510846,
+    "reverse": 2.4198787352067876,
+    "slow_hold": 1.7243916251876872
+  },
+  "1|clear|right_clear|mid": {
+    "safe_side_soft": 2.1420207764089394,
+    "safe_side_hard": 2.1522729705472377,
+    "force_left": 2.4196088749226954,
+    "force_right": 2.233806616812435,
+    "reverse": 1.0658497868489325,
+    "slow_hold": 1.3259540648382888
+  },
+  "1|danger|left_clear|mid": {
+    "safe_side_soft": 2.60052190079694,
+    "safe_side_hard": -17.46228195316673,
+    "force_left": 2.6566451085303027,
+    "force_right": 2.145651172702124,
+    "reverse": -5.884000674851106,
+    "slow_hold": 2.080527094166149
+  },
+  "0|clear|balanced|mid": {
+    "safe_side_soft": 3.3104421217836166,
+    "safe_side_hard": 1.462506441366218,
+    "force_left": -1.450071490478321,
+    "force_right": 1.4369619332653372,
+    "reverse": 1.7526897909645558,
+    "slow_hold": 1.436502161477981
+  },
+  "0|danger|left_clear|mid": {
+    "safe_side_soft": -8.95357376532092,
+    "safe_side_hard": 1.4708807665585202,
+    "force_left": 1.5147530644263099,
+    "force_right": 1.471085007479454,
+    "reverse": 2.0926567553259954,
+    "slow_hold": 0.9334453541287449
+  },
+  "1|clear|balanced|mid": {
+    "safe_side_soft": 2.285549104994173,
+    "safe_side_hard": 0.40312145557838597,
+    "force_left": 2.0106958323611512,
+    "force_right": 0.020849927814007074,
+    "reverse": -34.290722895991586,
+    "slow_hold": 0.2732122333968925
+  },
+  "1|clear|left_clear|mid": {
+    "safe_side_soft": 2.7694596305564936,
+    "safe_side_hard": 2.489746243833917,
+    "force_left": -16.962684171935187,
+    "force_right": 2.192928536335511,
+    "reverse": 3.103385184783776,
+    "slow_hold": -32.55576642987666
+  },
+  "0|danger|balanced|mid": {
+    "safe_side_soft": -4.647027776930719,
+    "safe_side_hard": -6.173793595768167,
+    "force_left": -0.18538085424538475,
+    "force_right": -0.07999436610312949,
+    "reverse": 1.7263702933070804,
+    "slow_hold": -0.16631321134393406
+  },
+  "0|danger|right_clear|mid": {
+    "safe_side_soft": 1.4878957314545254,
+    "safe_side_hard": 1.4718918272893688,
+    "force_left": 1.4811007699601841,
+    "force_right": 1.4756665467759602,
+    "reverse": 1.4667137948339881,
+    "slow_hold": 2.02103865770917
+  },
+  "0|warn|right_clear|mid": {
+    "safe_side_soft": 1.4631805241331282,
+    "safe_side_hard": 1.8964483911147123,
+    "force_left": 1.442682152795451,
+    "force_right": 1.381960684745353,
+    "reverse": 1.3751985871814534,
+    "slow_hold": 1.4976818578088034
+  },
+  "1|danger|balanced|mid": {
+    "safe_side_soft": -2.694942480157687,
+    "safe_side_hard": -14.02027954504075,
+    "force_left": -14.26745063536418,
+    "force_right": -8.755459112763692,
+    "reverse": -77.81075352173926,
+    "slow_hold": 2.569292187360982
+  },
+  "0|warn|balanced|mid": {
+    "safe_side_soft": -3.268634019487812,
+    "safe_side_hard": -9.104838157189304,
+    "force_left": 1.7191439140239113,
+    "force_right": -4.967969182910711,
+    "reverse": -2.4964909085711398,
+    "slow_hold": -2.40146953691444
+  },
+  "1|warn|balanced|mid": {
+    "safe_side_soft": 2.1694818163367664,
+    "safe_side_hard": 2.5630160088443903,
+    "force_left": 2.411369693852212,
+    "force_right": 1.8878310178142,
+    "reverse": 1.4151678332712603,
+    "slow_hold": -14.312509317186292
+  }
+}

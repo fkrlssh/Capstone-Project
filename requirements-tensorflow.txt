@@ -1,0 +1,4 @@
+# Optional: collision RL metrics / TensorBoard dashboard
+tensorflow>=2.12.0
+tensorboard>=2.12.0
+matplotlib>=3.7.0

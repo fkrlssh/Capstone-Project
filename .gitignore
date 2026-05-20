@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+outputs/episodes/
+outputs/tensorboard/
+outputs/*.npy
+outputs/*.png
+outputs/rl_plot_state.json
+
+outputs/*.csv
+outputs/*.jsonl
